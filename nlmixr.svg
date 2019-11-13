@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="104.74mm"
+   height="53.560001mm"
+   id="svg864"
+   sodipodi:docname="nlmixr.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata868">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     id="namedview866"
+     showgrid="false"
+     inkscape:zoom="5.8623737"
+     inkscape:cx="319.93743"
+     inkscape:cy="18.31073"
+     inkscape:window-x="2869"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg864" />
+  <defs
+     id="defs822">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <image
+       id="EMFimage0"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAF0lEQVQImWNgYGD4//8/FhK7KAQMPh0AXXNfoZnuFWQAAAAASUVORK5CYII="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage0_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage0_ign"
+         xlink:href="#EMFimage0" />
+    </pattern>
+    <image
+       id="EMFimage1"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAHElEQVQImWP4//8/AwMDJsmAVfT///84RAdYBwBdc1+hYlK73QAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage1_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage1_ign"
+         xlink:href="#EMFimage1" />
+    </pattern>
+  </defs>
+  <path
+     d="m 441.11117,133.55578 v 82.144 l 71.13867,41.07066 71.13866,-41.07066 v -82.144 L 512.24984,92.483781 Z"
+     style="fill:#ffffff;stroke:#c00000;stroke-width:1.66666663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+     id="path2306"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="E:\Occams\Local\General\nlmixr\Logo\nlmixr_hex.png"
+     inkscape:export-xdpi="250.07001"
+     inkscape:export-ydpi="250.07001" />
+  <g
+     aria-label="r"
+     style="font-style:normal;font-weight:normal;font-size:19.52820396px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c00000;fill-opacity:1;stroke:none;stroke-width:0.48820511"
+     id="text1594-6">
+    <path
+       d="m 565.692,168.72633 h 5.355 v 3.13519 q 0.86961,-1.85366 2.31134,-2.81481 1.44173,-0.96115 3.15808,-0.96115 1.21288,0 2.54019,0.64077 l -1.94519,5.37788 q -1.09846,-0.54923 -1.80789,-0.54923 -1.44173,0 -2.44865,1.785 -0.98404,1.785 -0.98404,7.00269 l 0.0229,1.21289 v 10.06923 H 565.692 Z"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.86769104px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#c00000;fill-opacity:1;stroke-width:0.48820511"
+       id="path872" />
+  </g>
+  <g
+     id="g1710-0"
+     transform="matrix(0.48820511,0,0,0.48820511,424.96813,118.17454)">
+    <ellipse
+       ry="28.28488"
+       rx="29.370441"
+       cy="72.827644"
+       cx="220.06723"
+       id="path1586-2"
+       style="opacity:0.2;fill:#5b9bd5;fill-opacity:1;stroke:#5b9bd5;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       ry="28.28488"
+       rx="29.370441"
+       cy="72.887955"
+       cx="220.00691"
+       id="path1586-4-6"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#5b9bd5;stroke-width:0.75590551;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="g1718-7"
+     transform="matrix(0.48820511,0,0,0.48820511,424.96813,118.17454)">
+    <ellipse
+       ry="28.28488"
+       rx="29.370441"
+       cy="103.51508"
+       cx="232.12901"
+       id="path1586-46-4"
+       style="opacity:0.2;fill:#5b9bd5;fill-opacity:1;stroke:#5b9bd5;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       ry="28.28488"
+       rx="29.370441"
+       cy="103.57539"
+       cx="232.0687"
+       id="path1586-4-4-9"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#5b9bd5;stroke-width:0.75590551;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="g1714-4"
+     transform="matrix(0.48820511,0,0,0.48820511,424.96813,118.17454)">
+    <ellipse
+       ry="28.28488"
+       rx="29.370441"
+       cy="103.51508"
+       cx="206.67867"
+       id="path1586-8-0"
+       style="opacity:0.2;fill:#5b9bd5;fill-opacity:1;stroke:#5b9bd5;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       ry="28.28488"
+       rx="29.370441"
+       cy="103.57539"
+       cx="206.61835"
+       id="path1586-4-2-0"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#5b9bd5;stroke-width:0.75590551;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     aria-label="nlmix"
+     style="font-style:normal;font-weight:normal;font-size:19.52820396px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f4e79;fill-opacity:1;stroke:none;stroke-width:0.48820511"
+     id="text1590-4">
+    <path
+       d="m 446.20428,168.66744 h 6.22462 v 2.54019 q 2.12826,-1.785 3.84461,-2.47153 1.73923,-0.70943 3.54712,-0.70943 3.7073,0 6.29327,2.58596 2.17403,2.19693 2.17403,6.49923 v 16.45404 h -6.17884 v -10.91596 q 0,-4.4625 -0.41193,-5.92711 -0.38903,-1.46462 -1.39596,-2.21981 -0.98404,-0.77808 -2.44865,-0.77808 -1.89942,0 -3.2725,1.28154 -1.35019,1.25865 -1.87654,3.50135 -0.27461,1.16711 -0.27461,5.0575 v 10.00057 h -6.22462 z"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.86769104px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#1f4e79;fill-opacity:1;stroke-width:0.48820511"
+       id="path875" />
+    <path
+       d="m 473.64293,159.0559 h 6.2475 v 34.51 h -6.2475 z"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.86769104px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#1f4e79;fill-opacity:1;stroke-width:0.48820511"
+       id="path877" />
+    <path
+       d="m 485.52005,168.66744 h 6.27038 v 2.86058 q 1.60193,-1.76212 3.54712,-2.63173 1.96808,-0.86962 4.27942,-0.86962 2.33423,0 4.21077,1.14423 1.87654,1.14423 3.02077,3.34116 1.4875,-2.19693 3.63865,-3.34116 2.17404,-1.14423 4.73712,-1.14423 2.65461,0 4.66846,1.23577 2.01385,1.23577 2.88346,3.22673 0.8925,1.99096 0.8925,6.47635 v 14.60038 h -6.29327 v -12.6323 q 0,-4.23366 -1.05269,-5.72116 -1.05269,-1.51038 -3.15808,-1.51038 -1.60192,0 -2.88346,0.91538 -1.25865,0.91539 -1.87654,2.54019 -0.61788,1.60193 -0.61788,5.17193 v 11.23634 h -6.29327 v -12.06019 q 0,-3.34115 -0.50346,-4.82865 -0.48058,-1.51039 -1.46462,-2.2427 -0.98404,-0.7323 -2.38,-0.7323 -1.55615,0 -2.83769,0.93827 -1.25865,0.91538 -1.89942,2.58596 -0.61789,1.67057 -0.61789,5.26346 v 11.07615 h -6.27038 z"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.86769104px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#1f4e79;fill-opacity:1;stroke-width:0.48820511"
+       id="path879" />
+    <path
+       d="m 532.04447,158.41513 q 1.64769,0 2.8148,1.19 1.19,1.19 1.19,2.88347 0,1.67057 -1.16711,2.86057 -1.16712,1.16712 -2.79192,1.16712 -1.67058,0 -2.86058,-1.19 -1.16712,-1.21289 -1.16712,-2.92923 0,-1.64769 1.16712,-2.81481 1.16711,-1.16712 2.81481,-1.16712 z m -3.1352,10.25231 h 6.27039 v 24.89846 h -6.27039 z"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.86769104px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#1f4e79;fill-opacity:1;stroke-width:0.48820511"
+       id="path881" />
+    <path
+       d="m 538.61235,168.66744 h 7.25443 l 4.87442,6.79673 4.94308,-6.79673 h 7.18576 l -8.51307,11.78558 9.56577,13.11288 h -7.25443 l -5.92711,-8.1698 -5.85846,8.1698 h -7.16289 l 9.42846,-13.11288 z"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.86769104px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#1f4e79;fill-opacity:1;stroke-width:0.48820511"
+       id="path883" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="315.9393"
+     y="476.69745"
+     id="text6824"
+     transform="rotate(-30.052177)"
+     inkscape:export-filename="E:\Occams\Local\General\nlmixr\Logo\nlmixr_hex.png"
+     inkscape:export-xdpi="250.07001"
+     inkscape:export-ydpi="250.07001"><tspan
+       sodipodi:role="line"
+       id="tspan6822"
+       x="315.9393"
+       y="476.69745"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.33333333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic'">github.com/nlmixrdevelopment/nlmixr</tspan></text>
+</svg>
