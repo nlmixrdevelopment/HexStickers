@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.085178mm"
+   height="43.9767mm"
+   viewBox="0 0 38.085179 43.976695"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="RxODE_hex_final_noguides.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5383">
+      <stop
+         style="stop-color:#1b3d64;stop-opacity:1;"
+         offset="0"
+         id="stop5379" />
+      <stop
+         style="stop-color:#1b3d64;stop-opacity:0;"
+         offset="1"
+         id="stop5381" />
+    </linearGradient>
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5383"
+       id="radialGradient5385"
+       cx="86.215004"
+       cy="18.200945"
+       fx="86.215004"
+       fy="18.200945"
+       r="19.042589"
+       gradientTransform="matrix(1.3183223,3.4003199e-7,-3.9369604e-7,1.5263807,-27.44415,-9.5806547)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.8024574"
+     inkscape:cx="266.38846"
+     inkscape:cy="86.502038"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g993"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="3829"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-36.18825,13.161066)">
+    <text
+       id="text862"
+       y="34.421963"
+       x="67.03981"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.5057292px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan860"
+         y="0"
+         x="0"
+         sodipodi:role="line"
+         style="stroke-width:0.26458332"><tspan
+           id="tspan858"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.5057292px;font-family:Arial;fill:#000000;stroke-width:0.26458332"
+           dy="0"
+           dx="0" /></tspan></text>
+    <g
+       transform="translate(-30.984167,-9.3736598)"
+       id="g993">
+      <path
+         inkscape:export-ydpi="1000.39"
+         inkscape:export-xdpi="1000.39"
+         inkscape:export-filename="C:\Occams\Local\GitHub\HexStickers\RxODE_big.png"
+         inkscape:connector-curvature="0"
+         id="path121"
+         style="fill:#ffffff;fill-opacity:1;stroke:#1b3d64;stroke-width:0.44097221;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 67.392903,7.334155 V 29.068088 L 86.215009,39.934701 105.03711,29.068088 V 7.334155 L 86.215009,-3.532811 Z" />
+      <path
+         d="M 67.392903,7.334155 V 29.068088 L 86.215009,39.934701 105.03711,29.068088 V 7.334155 L 86.215009,-3.532811 Z"
+         style="fill:url(#radialGradient5385);fill-opacity:1;stroke:#1b3d64;stroke-width:0.44097221;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2306-7"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Occams\Local\GitHub\HexStickers\RxODE_big.png"
+         inkscape:export-xdpi="1000.39"
+         inkscape:export-ydpi="1000.39" />
+      <g
+         aria-label="x"
+         style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c00000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text7427-2"
+         transform="rotate(1.2894223,39.370578,18.781691)" />
+      <g
+         aria-label="R"
+         style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text7427"
+         transform="matrix(1.31321,0,0,1.31321,25.785253,-3.3834521)"
+         inkscape:export-xdpi="1000.39"
+         inkscape:export-ydpi="1000.39"
+         inkscape:export-filename="C:\Occams\Local\GitHub\HexStickers\RxODE_big.png">
+        <path
+           d="m 34.080054,12.658105 h 1.53479 c 0.840603,0 1.438327,0.07579 1.793172,0.227377 0.35829,0.148139 0.645955,0.396185 0.862996,0.74414 0.217041,0.347955 0.325562,0.759644 0.325562,1.235067 0,0.499539 -0.120578,0.918118 -0.361735,1.255737 -0.237711,0.334175 -0.597724,0.587389 -1.080037,0.759644 l 7.480934,11.163545 -3.34369,-2.422963 -5.630693,-8.580382 h -0.134359 v 3.219441 l -1.47117,2.544112 z m 1.44694,2.971395 h 0.454753 c 0.461643,0 0.778591,-0.06029 0.950846,-0.180867 0.1757,-0.120579 0.26355,-0.320394 0.26355,-0.599447 0,-0.165365 -0.04306,-0.308336 -0.129191,-0.428914 -0.08613,-0.124023 -0.201538,-0.211873 -0.346232,-0.26355 -0.144694,-0.05512 -0.409966,-0.08268 -0.795817,-0.08268 h -0.397909 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           id="path7554"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csccsccccccccccscsccscc" />
+      </g>
+      <g
+         aria-label="I"
+         transform="matrix(1.0887034,0.73433327,-0.73433327,1.0887034,25.785253,-3.3834521)"
+         style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text7559"
+         inkscape:export-xdpi="1000.39"
+         inkscape:export-ydpi="1000.39"
+         inkscape:export-filename="C:\Occams\Local\GitHub\HexStickers\RxODE_big.png">
+        <path
+           d="m 43.475388,-26.614254 c 3.095475,-0.182981 0.720913,0.01212 1.500771,-0.119747 L 44.418639,2.8115931 43.053544,2.9494 Z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           id="path7561"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         aria-label="O"
+         style="font-style:normal;font-weight:normal;font-size:5.5592556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.34745347;stroke-opacity:1"
+         id="text7427-0"
+         inkscape:export-filename="C:\Occams\Local\GitHub\HexStickers\RxODE_big.png"
+         inkscape:export-xdpi="1000.39"
+         inkscape:export-ydpi="1000.39">
+        <path
+           d="m 82.126129,12.678921 q 2.117295,0 3.637404,1.533682 1.526895,1.533681 1.526895,3.739196 0,2.185157 -1.506537,3.698479 -1.49975,1.513323 -3.644189,1.513323 -2.246233,0 -3.732411,-1.55404 -1.486178,-1.55404 -1.486178,-3.691693 0,-1.431888 0.692193,-2.633046 0.692192,-1.201157 1.900136,-1.900136 1.21473,-0.705765 2.612687,-0.705765 z m -0.02036,1.859419 q -1.384385,0 -2.327667,0.963641 -0.943282,0.96364 -0.943282,2.449818 0,1.655833 1.187585,2.619474 0.922923,0.753268 2.117295,0.753268 1.350454,0 2.300522,-0.977213 0.950068,-0.977213 0.950068,-2.409101 0,-1.425102 -0.956855,-2.409102 -0.956854,-0.990785 -2.327666,-0.990785 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.898139px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.34745347;stroke-opacity:1"
+           id="path1505"
+           inkscape:connector-curvature="0" />
+      </g>
+      <ellipse
+         style="opacity:1;fill:#ae0000;fill-opacity:1;stroke:#ffffff;stroke-width:0.61775613;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path5330"
+         cx="82.150948"
+         cy="17.956955"
+         rx="3.7602966"
+         ry="3.8650863"
+         inkscape:export-xdpi="1000.39"
+         inkscape:export-ydpi="1000.39"
+         inkscape:export-filename="C:\Occams\Local\GitHub\HexStickers\RxODE_big.png" />
+      <g
+         id="g5394"
+         transform="matrix(0.86470955,0,0,0.87550885,11.080246,2.2388843)"
+         inkscape:export-xdpi="1000.39"
+         inkscape:export-ydpi="1000.39"
+         inkscape:export-filename="C:\Occams\Local\GitHub\HexStickers\RxODE_big.png">
+        <g
+           aria-label="𝑑𝐴"
+           transform="scale(1.0250005,0.97560929)"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.3994267px;line-height:125%;font-family:'Cambria Math';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2565605;stroke-opacity:1"
+           id="text848">
+          <path
+             d="m 79.239932,17.464047 q -0.159349,0.232383 -0.302098,0.340275 -0.142749,0.107892 -0.302097,0.107892 -0.182587,0 -0.283839,-0.13777 -0.09959,-0.13777 -0.09959,-0.386751 0,-0.285499 0.111212,-0.547759 0.112872,-0.263921 0.308737,-0.414969 0.195865,-0.152709 0.436547,-0.152709 0.101253,0 0.185907,0.02158 0.08631,0.01992 0.175946,0.07137 l 0.08631,-0.383431 q 0.01328,-0.05478 0.02324,-0.121171 0.01,-0.06639 0.01,-0.116192 0,-0.0498 -0.01826,-0.07469 -0.01826,-0.02656 -0.05312,-0.03818 -0.0332,-0.01162 -0.121171,-0.0166 l 0.01992,-0.08631 0.416629,-0.01494 h 0.09793 l -0.413309,1.837483 q -0.03652,0.162668 -0.03652,0.245661 0,0.06639 0.02158,0.09627 0.02158,0.02988 0.06806,0.02988 0.0498,0 0.106232,-0.03984 0.05644,-0.0415 0.159348,-0.156028 l 0.09461,0.09295 q -0.152709,0.161008 -0.257281,0.227403 -0.104572,0.06639 -0.225743,0.06639 -0.102912,0 -0.164328,-0.06806 -0.06141,-0.06805 -0.06141,-0.180927 0,-0.09129 0.03818,-0.194205 z m 0.111211,-0.587596 q 0.0249,-0.119511 0.0249,-0.225743 0,-0.12947 -0.05478,-0.187566 -0.05478,-0.05976 -0.182587,-0.05976 -0.169307,0 -0.303757,0.13777 -0.13445,0.13611 -0.212464,0.368493 -0.07635,0.232382 -0.07635,0.463105 0,0.172627 0.04648,0.258941 0.04814,0.08465 0.159348,0.08465 0.05146,0 0.104572,-0.02158 0.05312,-0.02324 0.109552,-0.07303 0.0581,-0.0498 0.112872,-0.121171 0.05643,-0.07138 0.102912,-0.14275 0.04648,-0.07303 0.08631,-0.170967 0.03984,-0.09959 0.06805,-0.239022 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.3994267px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2565605;stroke-opacity:1"
+             id="path1495"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 81.308137,17.887316 0.01826,-0.08133 q 0.09793,-0.0083 0.146069,-0.07635 0.04814,-0.06805 0.04814,-0.239022 0,-0.06473 -0.005,-0.141089 l -0.01162,-0.214124 H 80.77364 l -0.09129,0.162668 q -0.06474,0.114531 -0.09461,0.197525 -0.02988,0.08133 -0.02988,0.144409 0,0.13943 0.167648,0.165988 l -0.01826,0.08133 h -0.678889 l 0.01826,-0.08133 q 0.05146,-0.0066 0.09627,-0.03984 0.04648,-0.03486 0.09793,-0.102913 0.05146,-0.06971 0.144409,-0.229062 l 1.063981,-1.839143 h 0.250641 l 0.119511,1.850762 q 0.0083,0.13113 0.02988,0.205824 0.02158,0.07303 0.0581,0.109552 0.03818,0.03486 0.109552,0.04482 l -0.01826,0.08133 z m -0.459785,-0.896333 h 0.649011 l -0.02822,-0.534481 q -0.005,-0.109551 -0.0083,-0.273879 -0.0033,-0.164328 -0.0033,-0.237363 h -0.01826 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.3994267px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2565605;stroke-opacity:1"
+             id="path1497"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           aria-label="𝑑𝑡"
+           transform="scale(1.0250005,0.97560929)"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.3994267px;line-height:125%;font-family:'Cambria Math';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2565605;stroke-opacity:1"
+           id="text854">
+          <path
+             d="m 79.577715,20.904282 q -0.159348,0.232383 -0.302097,0.340275 -0.142749,0.107892 -0.302098,0.107892 -0.182586,0 -0.283838,-0.13777 -0.09959,-0.137769 -0.09959,-0.386751 0,-0.285499 0.111212,-0.547759 0.112871,-0.26392 0.308737,-0.414969 0.195865,-0.152709 0.436547,-0.152709 0.101253,0 0.185906,0.02158 0.08631,0.01992 0.175947,0.07137 l 0.08631,-0.383431 q 0.01328,-0.05478 0.02324,-0.121171 0.01,-0.06639 0.01,-0.116191 0,-0.0498 -0.01826,-0.07469 -0.01826,-0.02656 -0.05312,-0.03818 -0.0332,-0.01162 -0.121171,-0.0166 l 0.01992,-0.08631 0.416629,-0.01494 h 0.09793 l -0.413309,1.837483 q -0.03652,0.162668 -0.03652,0.245662 0,0.06639 0.02158,0.09627 0.02158,0.02988 0.06806,0.02988 0.0498,0 0.106232,-0.03984 0.05644,-0.0415 0.159348,-0.156028 l 0.09461,0.09295 q -0.152709,0.161008 -0.257281,0.227403 -0.104572,0.06639 -0.225743,0.06639 -0.102912,0 -0.164328,-0.06806 -0.06142,-0.06806 -0.06142,-0.180927 0,-0.09129 0.03818,-0.194205 z m 0.111212,-0.587596 q 0.0249,-0.119511 0.0249,-0.225743 0,-0.12947 -0.05478,-0.187566 -0.05478,-0.05976 -0.182586,-0.05976 -0.169307,0 -0.303757,0.13777 -0.13445,0.13611 -0.212465,0.368493 -0.07635,0.232382 -0.07635,0.463105 0,0.172627 0.04648,0.258941 0.04814,0.08465 0.159348,0.08465 0.05146,0 0.104572,-0.02158 0.05312,-0.02324 0.109552,-0.07303 0.0581,-0.0498 0.112871,-0.121171 0.05644,-0.07137 0.102913,-0.14275 0.04648,-0.07303 0.08631,-0.170967 0.03984,-0.09959 0.06806,-0.239022 z"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.3994267px;font-family:'Cambria Math';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2565605;stroke-opacity:1"
+             id="path1500"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 81.541349,21.013834 q -0.144409,0.174287 -0.278859,0.257281 -0.13279,0.08299 -0.278859,0.08299 -0.346915,0 -0.346915,-0.350234 0,-0.111212 0.02822,-0.234043 L 80.8608,19.908357 h -0.278859 l 0.0249,-0.114532 q 0.09793,-0.0017 0.147729,-0.01494 0.05146,-0.01328 0.08465,-0.03652 0.03486,-0.02324 0.06308,-0.06639 0.02822,-0.04316 0.05478,-0.109552 0.02656,-0.06806 0.07967,-0.235702 h 0.229063 l -0.09129,0.409989 h 0.504603 l -0.03652,0.167648 h -0.504603 l -0.147729,0.644032 q -0.04316,0.187566 -0.05478,0.270559 -0.01162,0.08133 -0.01162,0.131131 0,0.205824 0.170967,0.205824 0.07304,0 0.154369,-0.05478 0.08299,-0.05644 0.195865,-0.190885 z"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.3994267px;font-family:'Cambria Math';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2565605;stroke-opacity:1"
+             id="path1502"
+             inkscape:connector-curvature="0" />
+        </g>
+        <path
+           id="path856"
+           d="m 79.993093,17.893384 h 4.289838 v 0.200153 h -4.289838 z"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2565605;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         aria-label="D"
+         style="font-style:normal;font-weight:normal;font-size:5.5592556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.34745347"
+         id="text7427-0-2"
+         inkscape:export-filename="C:\Occams\Local\GitHub\HexStickers\RxODE_big.png"
+         inkscape:export-xdpi="1000.39"
+         inkscape:export-ydpi="1000.39">
+        <path
+           d="m 88.075747,12.930011 h 2.253018 q 2.178371,0 3.237018,0.542896 1.058647,0.53611 1.744054,1.750839 0.685406,1.21473 0.685406,2.836632 0,1.153654 -0.386814,2.124081 -0.380027,0.963641 -1.058647,1.601544 -0.671834,0.637902 -1.459033,0.882206 -0.787199,0.244303 -2.728053,0.244303 h -2.286949 z m 1.89335,1.832274 v 6.290808 h 0.882206 q 1.30295,0 1.886564,-0.298593 0.590399,-0.298593 0.96364,-1.004358 0.373241,-0.705765 0.373241,-1.737267 0,-1.587971 -0.888992,-2.463391 -0.800772,-0.787199 -2.57197,-0.787199 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.898139px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.34745347"
+           id="path1492"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         aria-label="E"
+         style="font-style:normal;font-weight:normal;font-size:5.5592556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.34745347"
+         id="text7427-0-24"
+         inkscape:export-filename="C:\Occams\Local\GitHub\HexStickers\RxODE_big.png"
+         inkscape:export-xdpi="1000.39"
+         inkscape:export-ydpi="1000.39">
+        <path
+           d="m 96.75712,12.930011 h 5.44932 v 1.859419 h -3.562756 v 1.805129 h 3.562756 v 1.825488 h -3.562756 v 2.62626 h 3.562756 v 1.866205 h -5.44932 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.898139px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.34745347"
+           id="path1489"
+           inkscape:connector-curvature="0" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="54.964066"
+         y="77.03231"
+         id="text6824-1"
+         transform="rotate(-30.052177)"
+         inkscape:export-filename="C:\Occams\Local\GitHub\HexStickers\RxODE_big.png"
+         inkscape:export-xdpi="1000.39"
+         inkscape:export-ydpi="1000.39"><tspan
+           sodipodi:role="line"
+           id="tspan6822"
+           x="54.964066"
+           y="77.03231"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.88194442px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';stroke-width:0.26458332">github.com/nlmixrdevelopment/RxODE</tspan></text>
+    </g>
+  </g>
+</svg>
