@@ -40,7 +40,7 @@
      id="namedview866"
      showgrid="false"
      inkscape:zoom="5.8623737"
-     inkscape:cx="197.55157"
+     inkscape:cx="164.37388"
      inkscape:cy="76.341178"
      inkscape:window-x="3829"
      inkscape:window-y="-11"
@@ -100,13 +100,15 @@
      id="path2306"
      inkscape:connector-curvature="0"
      inkscape:export-filename="E:\Occams\Local\General\nlmixr\Logo\nlmixr_hex.png"
-     inkscape:export-xdpi="250.07001"
-     inkscape:export-ydpi="250.07001" />
+     inkscape:export-xdpi="1000.39"
+     inkscape:export-ydpi="1000.39" />
   <g
      aria-label="r"
      style="font-style:normal;font-weight:normal;font-size:19.52820396px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c00000;fill-opacity:1;stroke:none;stroke-width:0.48820511"
      id="text1594-6"
-     transform="translate(-440.27784,-91.52153)">
+     transform="translate(-440.27784,-91.52153)"
+     inkscape:export-xdpi="1000.39"
+     inkscape:export-ydpi="1000.39">
     <path
        d="m 565.692,168.72633 h 5.355 v 3.13519 q 0.86961,-1.85366 2.31134,-2.81481 1.44173,-0.96115 3.15808,-0.96115 1.21288,0 2.54019,0.64077 l -1.94519,5.37788 q -1.09846,-0.54923 -1.80789,-0.54923 -1.44173,0 -2.44865,1.785 -0.98404,1.785 -0.98404,7.00269 l 0.0229,1.21289 v 10.06923 H 565.692 Z"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.86769104px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#c00000;fill-opacity:1;stroke-width:0.48820511"
@@ -115,7 +117,9 @@
   </g>
   <g
      id="g1710-0"
-     transform="matrix(0.48820511,0,0,0.48820511,-15.309707,26.65301)">
+     transform="matrix(0.48820511,0,0,0.48820511,-15.309707,26.65301)"
+     inkscape:export-xdpi="1000.39"
+     inkscape:export-ydpi="1000.39">
     <ellipse
        ry="28.28488"
        rx="29.370441"
@@ -133,7 +137,9 @@
   </g>
   <g
      id="g1718-7"
-     transform="matrix(0.48820511,0,0,0.48820511,-15.309707,26.65301)">
+     transform="matrix(0.48820511,0,0,0.48820511,-15.309707,26.65301)"
+     inkscape:export-xdpi="1000.39"
+     inkscape:export-ydpi="1000.39">
     <ellipse
        ry="28.28488"
        rx="29.370441"
@@ -151,7 +157,9 @@
   </g>
   <g
      id="g1714-4"
-     transform="matrix(0.48820511,0,0,0.48820511,-15.309707,26.65301)">
+     transform="matrix(0.48820511,0,0,0.48820511,-15.309707,26.65301)"
+     inkscape:export-xdpi="1000.39"
+     inkscape:export-ydpi="1000.39">
     <ellipse
        ry="28.28488"
        rx="29.370441"
@@ -171,7 +179,9 @@
      aria-label="nlmix"
      style="font-style:normal;font-weight:normal;font-size:19.52820396px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f4e79;fill-opacity:1;stroke:none;stroke-width:0.48820511"
      id="text1590-4"
-     transform="translate(-440.27784,-91.52153)">
+     transform="translate(-440.27784,-91.52153)"
+     inkscape:export-xdpi="1000.39"
+     inkscape:export-ydpi="1000.39">
     <path
        d="m 446.20428,168.66744 h 6.22462 v 2.54019 q 2.12826,-1.785 3.84461,-2.47153 1.73923,-0.70943 3.54712,-0.70943 3.7073,0 6.29327,2.58596 2.17403,2.19693 2.17403,6.49923 v 16.45404 h -6.17884 v -10.91596 q 0,-4.4625 -0.41193,-5.92711 -0.38903,-1.46462 -1.39596,-2.21981 -0.98404,-0.77808 -2.44865,-0.77808 -1.89942,0 -3.2725,1.28154 -1.35019,1.25865 -1.87654,3.50135 -0.27461,1.16711 -0.27461,5.0575 v 10.00057 h -6.22462 z"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.86769104px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#1f4e79;fill-opacity:1;stroke-width:0.48820511"
@@ -206,8 +216,8 @@
      id="text6824"
      transform="rotate(-30.052177)"
      inkscape:export-filename="E:\Occams\Local\General\nlmixr\Logo\nlmixr_hex.png"
-     inkscape:export-xdpi="250.07001"
-     inkscape:export-ydpi="250.07001"><tspan
+     inkscape:export-xdpi="1000.39"
+     inkscape:export-ydpi="1000.39"><tspan
        sodipodi:role="line"
        id="tspan6822"
        x="-19.318933"
